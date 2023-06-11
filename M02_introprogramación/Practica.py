@@ -1,5 +1,5 @@
 print("Hello world!")
-a = 20
+a = 24
 while a > 0:
     print(a)
     a -= 1
